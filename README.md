@@ -60,10 +60,10 @@ I would like to learn more about the box model.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Graceomole)
-- Twitter - [@yourusername](https://www.twitter.com/grace_omoleye2)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Graceomole)
+- Twitter -(https://www.twitter.com/@grace_omoleye2)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 All thanks goes to the frontend mentor teams for creating a website like this where I can leaverage my learning on website development.
